@@ -1,2 +1,2 @@
 # demo-repo
-add ducument
+add ducument;
